@@ -12,6 +12,7 @@
 
 .control-buttons {
     background: black;
+    display: flex;
 }
 
 .control-button {
