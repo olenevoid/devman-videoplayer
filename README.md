@@ -1,10 +1,11 @@
 # Видеоплеер
 
 Простой видеоплеер на HTML, CSS и JavaScript с использованием библиотеки Playable.
+<img width="1013" height="764" alt="image" src="https://github.com/user-attachments/assets/ec87b538-7376-4ebd-9857-6a396b5f3cfa" />
 
 ## Демо
 
-<!-- TODO -->
+[Открыть плеер](https://olenevoid.github.io/devman-videoplayer/)
 
 ## Возможности
 
