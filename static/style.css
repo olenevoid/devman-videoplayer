@@ -1,4 +1,4 @@
-#player {
+.player {
     width: 800px;
     height: 600px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 1);
@@ -9,7 +9,7 @@
     height: 100%;
 }
 
-#control-buttons {
+.control-buttons {
     background: black;
 }
 
