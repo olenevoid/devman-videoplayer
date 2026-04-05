@@ -35,14 +35,28 @@
     background: #333;
     cursor: pointer;
     border-radius: 0.1em;
-    margin-left: 0.25em;
+    margin-left: 0.20em;
+    position: relative;
 }
 
-.progress-slider {
+.progress-bar {
     height: 100%;
     background: red;
     width: 0%;
     border-radius: 0.1em;
+    position: relative;
+}
+
+.slider {
+    position: absolute;
+    right: -0.4em;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0.5em;
+    height: 0.5em;
+    background: red;
+    border: 0.17em solid white;
+    border-radius: 50%;
 }
 
 .control-button {
