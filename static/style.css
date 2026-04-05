@@ -32,7 +32,7 @@
 .progress {
     flex: 0 1 16%;
     height: 0.3em;
-    background: #333;
+    background: black;
     cursor: pointer;
     border-radius: 0.1em;
     margin-left: 0.20em;
