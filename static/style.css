@@ -30,16 +30,19 @@
 }
 
 .progress {
-    flex-grow: 1;
-    height: 0.4em;
+    flex: 0 1 16%;
+    height: 0.3em;
     background: #333;
     cursor: pointer;
+    border-radius: 0.1em;
+    margin-left: 0.25em;
 }
 
 .progress-slider {
     height: 100%;
     background: red;
     width: 0%;
+    border-radius: 0.1em;
 }
 
 .control-button {
