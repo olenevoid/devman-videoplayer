@@ -13,6 +13,8 @@
 .control-buttons {
     background: black;
     display: flex;
+    padding: 0.5em 0.3em;
+    gap: 0.5em;
 }
 
 .control-button {
