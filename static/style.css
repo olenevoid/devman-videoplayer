@@ -13,8 +13,13 @@
 .control-buttons {
     background: black;
     display: flex;
+    align-items: center;
     padding: 0.5em 0.3em;
     gap: 0.5em;
+}
+
+.time-label {
+    color: white;
 }
 
 .control-button {
