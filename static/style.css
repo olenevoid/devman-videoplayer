@@ -57,6 +57,15 @@
     background: red;
     border: 0.17em solid white;
     border-radius: 50%;
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in;
+}
+
+.progress:hover .slider {
+    opacity: 1;
+    transition-timing-function: ease-out;
 }
 
 .control-button {
