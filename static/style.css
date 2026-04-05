@@ -29,6 +29,19 @@
     gap: 0.3em;
 }
 
+.progress {
+    flex-grow: 1;
+    height: 0.4em;
+    background: #333;
+    cursor: pointer;
+}
+
+.progress-slider {
+    height: 100%;
+    background: red;
+    width: 0%;
+}
+
 .control-button {
     border: none;
     cursor: pointer;
