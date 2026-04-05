@@ -23,6 +23,12 @@
     font-family: 'Roboto';
 }
 
+.right-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.3em;
+}
+
 .control-button {
     border: none;
     cursor: pointer;
